@@ -1,0 +1,22 @@
+yum.txt
+Created Wed Mar 27 07:35:57 AKDT 2019
+by Raymond E. Marcil <marcilr@gmail.com>
+
+
+yum - Yellowdog Updater Modified
+
+
+yum is an interactive, rpm based, package manager.  It can
+automatically perform system updates, including dependency
+analysis and  obsolete  processing based  on  "repository"
+metadata.  It  can also perform installation of new packages,
+removal of old packages  and  perform  queries  on  the
+installed and/or  available  packages  among many other
+commands/services (see below).  yum is similar to other high
+level package managers like apt-get and  smart.
+
+While  there  are  some  graphical interfaces directly to
+the yum code, more recent graphical interface development is
+happening with PackageKit and  the gnome-packagekit
+application.
+--man, Debian 9.8 Stretch, March 27, 2019

@@ -4,3 +4,10 @@ by Raymond E. Marcil <marcilr@gmail.com>
 
 
 Syntax
+
+
+
+Command           Description
+------------------------------------------------
+check-update      To check for available updates
+

@@ -3,7 +3,7 @@ Created Thu Apr 25 07:26:26 AKDT 2019
 by Raymond E. Marcil <marcilr@gmail.com>
 
 
-check-updates
+check-update
 
 
 To check for any updates available for your installed packages,

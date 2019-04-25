@@ -8,6 +8,9 @@ Filelist
 links.txt
   yum related links
 
+syntax/
+  Syntax
+
 yum.txt
   yum - Yellowdog Updater Modified
 

@@ -16,6 +16,16 @@ check-updates.txt
 
   # yum check-update
 
+update.txt
+  update
+
+  To update a single package to the latest available version,
+  run the command below.  In this example, yum will attempt
+  to update the httpd package.
+
+  # yum update httpd
+  --www.tecmint.com/check-and-install-updates-on-centos-and-rhel/
+
 syntax.txt
   Syntax
 

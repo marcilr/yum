@@ -8,6 +8,7 @@ Syntax
 
 
 Command           Description
-------------------------------------------------
+---------------------------------------------------
 check-update      To check for available updates
-
+update            To update a single package to the
+                  latest available version.

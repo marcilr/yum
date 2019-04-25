@@ -1,0 +1,22 @@
+check-update.txt
+Created Thu Apr 25 07:26:26 AKDT 2019
+by Raymond E. Marcil <marcilr@gmail.com>
+
+
+check-updates
+
+
+To check for any updates available for your installed packages,
+use YUM package manager with the check-update subcommand;
+this helps you to see all package updates from all repositories
+if any are available.  Nov 3, 2017
+--www.tecmint.com/check-and-install-updates-on-centos-and-rhel/
+
+# yum check-update
+
+
+Links
+=====
+How to Check and Install Updates On CentOS and RHEL - Tecmint
+https://www.tecmint.com/check-and-install-updates-on-centos-and-rhel/
+

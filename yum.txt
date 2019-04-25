@@ -6,6 +6,19 @@ by Raymond E. Marcil <marcilr@gmail.com>
 yum - Yellowdog Updater Modified
 
 
+YUM (Yellowdog Updater Modified) is an open source command-line
+as well as graphical based package management tool for RPM
+(RedHat Package Manager) based Linux systems.  It allows users
+and system administrator to easily install, update, remove or
+search software packages on a systems.  It was developed and
+released by Seth Vidal under GPL (General Public License) as an
+open source, means anyone can allowed to download and access
+the code to fix bugs and develop customized packages.  YUM uses 
+numerous third party repositories to install packages 
+automatically by resolving their dependencies issues.
+--www.tecmint.com/20-linux-yum-yellowdog-updater-modified-commands-for-package-mangement/
+
+
 yum is an interactive, rpm based, package manager.  It can
 automatically perform system updates, including dependency
 analysis and  obsolete  processing based  on  "repository"
@@ -20,3 +33,11 @@ the yum code, more recent graphical interface development is
 happening with PackageKit and  the gnome-packagekit
 application.
 --man, Debian 9.8 Stretch, March 27, 2019
+
+
+Links
+=====
+20 Linux YUM (Yellowdog Updater, Modified) Commands for Package Management
+by Ravi Saive | Published: August 11, 2012 | Last Updated: September 13, 2012
+https://www.tecmint.com/20-linux-yum-yellowdog-updater-modified-commands-for-package-mangement/
+

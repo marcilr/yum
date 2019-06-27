@@ -16,6 +16,12 @@ check-updates.txt
 
   # yum check-update
 
+repolist.txt
+  repolist
+
+syntax.txt
+  Syntax
+
 update.txt
   update
 
@@ -25,7 +31,3 @@ update.txt
 
   # yum update httpd
   --www.tecmint.com/check-and-install-updates-on-centos-and-rhel/
-
-syntax.txt
-  Syntax
-

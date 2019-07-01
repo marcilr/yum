@@ -16,6 +16,11 @@ check-updates.txt
 
   # yum check-update
 
+display-package-information.txt
+  Display package information
+  # yum info package_name…
+  https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/6/html/deployment_guide/sec-displaying_package_information
+
 update.txt
   update
 

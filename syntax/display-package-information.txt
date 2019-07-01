@@ -1,0 +1,45 @@
+display-package-information.txt
+Created Mon Jul  1 09:32:10 AKDT 2019
+Copyright (C) 2019 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Display package information
+
+
+yum info package_name…
+
+
+For example, to display information about the abrt package, type:
+
+~]# yum info abrt
+Loaded plugins: product-id, refresh-packagekit, subscription-manager
+Updating Red Hat repositories.
+INFO:rhsm-app.repolib:repos updated: 0
+Installed Packages
+Name       : abrt
+Arch       : x86_64
+Version    : 1.0.7
+Release    : 5.el6
+Size       : 578 k
+Repo       : installed
+From repo  : rhel
+Summary    : Automatic bug detection and reporting tool
+URL        : https://fedorahosted.org/abrt/
+License    : GPLv2+
+Description: abrt is a tool to help users to detect defects in applications
+           : and to create a bug report with all informations needed by
+           : maintainer to fix it. It uses plugin system to extend its
+           : functionality.
+
+
+The yum info package_name command is similar to the rpm -q --info
+package_name command, but provides as additional information the
+ID of the Yum repository the RPM package is found in (look for the
+From repo: line in the output).
+--access.redhat.com/documentation/en-us/red_hat_enterprise_linux/6/html/deployment_guide/sec-displaying_package_information
+
+Links
+=====
+DISPLAYING PACKAGE INFORMATION
+yum info package_name…
+https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/6/html/deployment_guide/sec-displaying_package_information

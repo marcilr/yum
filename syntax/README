@@ -16,6 +16,21 @@ check-updates.txt
 
   # yum check-update
 
+list-files-in-package.txt
+  List file in package
+
+  Use:
+    repoquery --list <package name>
+
+  Example:
+    $ repoquery --list bash
+    /bin/bash
+    /bin/sh
+    /etc/skel/.bash_logout
+    ...
+    /usr/share/man/man1/wait.1.gz
+    $
+
 repolist.txt
   repolist
 

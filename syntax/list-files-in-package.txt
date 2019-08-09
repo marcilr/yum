@@ -1,0 +1,21 @@
+list-files-in-package.txt
+Created Fri Aug  9 11:20:57 AKDT 2019
+Copyright (C) 2019 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+List file in package
+
+
+Use:
+  repoquery --list <package name>
+
+Example:
+  $ repoquery --list bash
+  /bin/bash
+  /bin/sh
+  /etc/skel/.bash_logout
+  ...
+  /usr/share/man/man1/wait.1.gz
+  $
+
+

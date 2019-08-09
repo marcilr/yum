@@ -32,6 +32,11 @@ list-files-in-package.txt
     $
 
 repolist.txt
+=======
+display-package-information.txt
+  Display package information
+  # yum info package_name…
+  https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/6/html/deployment_guide/sec-displaying_package_informationrepolist.txt
   repolist
 
 syntax.txt
@@ -52,5 +57,3 @@ yum_cheatsheet.pdf
   ===> yum_cheatsheet.pdf
   Downloaded August 1, 2019
   https://access.redhat.com/sites/default/files/attachments/rh_yum_cheatsheet_1214_jcs_print-1.pdf
-
-

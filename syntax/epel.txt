@@ -1,0 +1,24 @@
+epel.txt
+Created Tue Sep 24 09:07:16 AKDT 2019
+Copyright (C) 2019 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+EPEL (Extra Packages for Enterprise Linux) is open source
+and free community based repository project from Fedora
+team which provides 100% high quality add-on software
+packages for Linux distribution including RHEL (Red Hat
+Enterprise Linux), CentOS, and Scientific Linux.  Epel
+project is not a part of RHEL/Cent OS but it is designed
+for major Linux distributions by providing lots of open
+source packages like networking, sys admin, programming,
+monitoring and so on. Most of the epel packages are
+maintained by Fedora repo.
+--www.tecmint.com/
+
+
+Links
+=====
+How to Enable EPEL Repository for RHEL/CentOS 7.x/6.x/5.x
+by Ravi Saive | Published: June 24, 2014 | Last Updated: November 21, 2017
+CentOS/Red Hat
+https://www.tecmint.com/how-to-enable-epel-repository-for-rhel-centos-6-5/

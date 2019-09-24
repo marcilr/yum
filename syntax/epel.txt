@@ -13,6 +13,15 @@ for major Linux distributions by providing lots of open
 source packages like networking, sys admin, programming,
 monitoring and so on. Most of the epel packages are
 maintained by Fedora repo.
+
+Why we use EPEL repository?
+o Provides lots of open source packages to install via Yum.
+o Epel repo is 100% open source and free to use.
+o It does not provide any core duplicate packages and no compatibility issues.
+o All epel packages are maintained by Fedora repo.
+...
+EPEL installation instructions...
+
 --www.tecmint.com/
 
 

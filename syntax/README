@@ -16,6 +16,9 @@ check-updates.txt
 
   # yum check-update
 
+epel.txt
+  EPEL (Extra Packages for Enterprise Linux)
+
 list-files-in-package.txt
   List file in package
 
